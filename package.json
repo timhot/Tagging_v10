@@ -1,7 +1,7 @@
 {
-  "name": "router-app",
+  "name": "Audio tagging",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Tim learning how to build website",
   "author": "timhot <timhot@hotmail.com>",
   "private": true,
   "scripts": {
